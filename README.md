@@ -14,8 +14,12 @@ U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/h
 
 </br>
 <p align="center">
-      Random Working User Agent Generator Online
 
+### What is User-Agent ?
+
+A user agent is a relatively short bit of text that (attempts to) describe the Software/Browser (the "Agent") that is making the request to a website. Web browsers include the user agent string in the requests they make to websites. The User Agent often includes descriptions of the Operating System and Device Type that the Browser/Agent is running on.
+
+### This User-Agent Tool Is For Facebook Clonning Update.
 </p>
   
 #### INSTALL TOOL ON TERMUX
