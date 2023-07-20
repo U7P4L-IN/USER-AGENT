@@ -1,10 +1,4 @@
-![](https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Python.gif)
-
-
-
-🌺Welcome🌺
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+<p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/USER_AGENT____.png">
 
 
 
@@ -24,28 +18,31 @@ A user agent is a relatively short bit of text that (attempts to) describe the S
   
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- rm -rf User_Agents
- git clone --depth=1 https://github.com/U7P4L-IN/User_Agents.git
+apt update && apt upgrade -y
 
- cd User_Agents
+pkg install git
 
- ls
+pkg install python
 
- python User_Agents.py
+rm -rf USER-AGENT
+git clone --depth=1 https://github.com/U7P4L-IN/USER-AGENT.git
+
+cd USER-AGENT
+
+ls
+
+python USER-AGENT.py
+
 ```
+<p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/carbon.png">
+
+
 #### Screenshots:
+## DEMO 1
+<p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/Screenshot_2023-07-20-10-28-03-623_com.termux-01.jpeg">
 
-<p align="center"><img src="https://github.com/U7P4L-IN/User_Agents/blob/main/IMG_20230418_175833.jpg">
-
+## DEMO 2
+<p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/IMG_20230720_104455.jpg">
 
 #### Tools Languages :
 
