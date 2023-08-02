@@ -60,16 +60,11 @@ python UA-V2.py
 #### Screenshots:
 ## DEMO 
 <div align="center">  
-<img style="margin: 10px" 
 <p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/XRecorder_02082023_184840.jpg">
 
 <p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/XRecorder_02082023_184849.jpg">
-</div>
 
-</td></tr></table>  
-
-<br/>
-#### Tools Languages :
+### Tools Languages :
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=USER-AGENT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
