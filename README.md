@@ -1,17 +1,6 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/USER_AGENT____.png">
+<p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/github-header-image%20(1).png">
 
-
-
-AUTHOR:
-<p align="center">
-U7P4L IN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2> 
-
-</br>
-<p align="center">
-
-### What is User-Agent ?
-
-A user agent is a relatively short bit of text that (attempts to) describe the Software/Browser (the "Agent") that is making the request to a website. Web browsers include the user agent string in the requests they make to websites. The User Agent often includes descriptions of the Operating System and Device Type that the Browser/Agent is running on.
+A user agent is a relatively short bit of text that (attempts to) describe the Software/Browser (the "Agent") that is making the request to a website. Web browsers include the user agent string in the requests they make to websites. The User Agent often includes descriptions of the Operating System and Device Type that the Browser/Agent is running on.<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 
 ### This User-Agent Tool Is For Facebook Clonning Update.
 </p>
