@@ -39,13 +39,13 @@ git clone --depth=1 https://github.com/U7P4L-IN/USER-AGENT.git
 cd USER-AGENT
 python UA-V3py
 ```
+### Scripts Demo </>
+
 <p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/GridArt_20240117_002617796.jpg">
   
 <div align="center">  
 <p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/GridArt_20240117_003401939.jpg">
-  
-### Screenshots:
-## DEMO 
+
 <div align="center">  
 <p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/GridArt_20240117_003441786.jpg">
 
