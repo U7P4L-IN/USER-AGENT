@@ -57,5 +57,11 @@ python UA-V3py
 
 ### Thanks For Visiting 🧡🧡
 
-<div align="center">  
-<p align="center"><img src="https://github.com/U7P4L-IN/USER-AGENT/blob/main/image/XRecorder_02082023_184840.jpg">
+<h5 align="center"><b>DESCRIPTION</b></h5>
+
+> [!NOTE]  
+> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
+
+# Give A Star ⭐
+
+> You can also give this repository a star to show more people and they can use this repository
