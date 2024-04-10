@@ -42,15 +42,15 @@ git clone --depth=1 https://github.com/U7P4L-IN/USER-AGENT.git
 cd USER-AGENT
 python3 UA.py
 ```
-<p align="center"><img src="./Image/carbon.png" width="100%"/>
+<p align="center"><img src="./image/carbon.png" width="100%"/>
 </p>
-<p align="center"><img src="./Image/demo1.jpg" width="100%"/>
+<p align="center"><img src="./image/demo1.jpg" width="100%"/>
 </p>
-<p align="center"><img src="./Image/m1.jpg" width="100%"/>
+<p align="center"><img src="./image/m1.jpg" width="100%"/>
 </p>
-<p align="center"><img src="./Image/m2.jpg" width="100%"/>
+<p align="center"><img src="./image/m2.jpg" width="100%"/>
 </p>
-<p align="center"><img src="./Image/m3.jpg" width="100%"/>
+<p align="center"><img src="./image/m3.jpg" width="100%"/>
 </p>
 
 # Report bugs
@@ -82,11 +82,11 @@ ls
 sudo python3 UA.py
 ```
 
-<p align="center"><img src="./Image/demo2.png" width="100%"/>
+<p align="center"><img src="./image/demo2.png" width="100%"/>
 </p>
-<p align="center"><img src="./Image/demo3.png" width="100%"/>
+<p align="center"><img src="./image/demo3.png" width="100%"/>
 </p>
-<p align="center"><img src="./Image/demo4.png" width="100%"/>
+<p align="center"><img src="./image/demo4.png" width="100%"/>
 </p>
 
 ### Languages :
